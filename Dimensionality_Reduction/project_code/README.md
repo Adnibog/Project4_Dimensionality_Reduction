@@ -8,22 +8,10 @@ This project applies PCA for dimensionality reduction and classification methods
 pip install -r requirements.txt
 ```
 
-## How to Run
-1. Load the dataset:
+## How to Run:
+- Run the Script:
     ```bash
-    python load_data.py
-    ```
-2. Perform PCA and reconstruct faces:
-    ```bash
-    python reconstruct_faces.py
-    ```
-3. Train and evaluate classifiers:
-    ```bash
-    python classification.py
-    ```
-4. Apply additional dimensionality reduction methods:
-    ```bash
-    python additional_methods.py
+    python3 main.py
     ```
 
 ## Report
